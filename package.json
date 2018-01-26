@@ -1,0 +1,20 @@
+{
+  "name": "zhihu",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:B1anker/zhihu.git",
+  "author": "B1anker <b1anker@163.com>",
+  "scripts": {
+    "start": "babel-node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "flyio": "^0.3.0",
+    "zhihu": "^1.4.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
